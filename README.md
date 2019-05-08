@@ -2,13 +2,13 @@
 
 **SUMMARY** 
 
-1. Theory of Computation
- - Models of computation 
- - Limits of formal systems
- - Complexity theory
-2. Algorithms
- - Analysis of algorithms
- - Main techniques for designing algorithms
+- Theory of Computation
+   - Models of computation 
+   - Limits of formal systems
+   - Complexity theory
+- Algorithms
+   - Analysis of algorithms
+   - Main techniques for designing algorithms
 
  **OBJECTIVES**
 
@@ -20,5 +20,17 @@
 
 **BIBLIOGRAPHY**
 
-- Michael Sipser. Introduction to the Theory of Computation, Cengage Learning, 2013
+- Michael Sipser. Introduction to the Theory of Computation, Cengage Learning, 2013.
+   - Introduction and some representative Problems (*chapter 1*)
+   - Basics of Algorithms Analysis (*chapter 2*)
+   - Graphs (*chapter 3*)
+   - Greedy Algorithms (*chapter 4*)
+   - Divide and Conquer (*chapter 5*)
+   - Dynamic Programming (*chapter 6*)
 - J. Kleinberg, E. Tardos. Algorithm Design. Addison Wesley, 2005.
+   - Turing Machines and the Church-Turing Thesis (*chapter 3*)
+   - Decidability and Undecidability (*chapter 4 and 5*)
+   - Reducibility (*chapter 5*)
+   - Time Complexity and Space Complexity (*chapter 7 and 8*)
+   - Intractability (*chapter 9*)
+
