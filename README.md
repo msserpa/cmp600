@@ -27,7 +27,7 @@
    - Greedy Algorithms (*chapter 4*)
    - Divide and Conquer (*chapter 5*)
    - Dynamic Programming (*chapter 6*)
-   - 
+   
 - Michael Sipser. Introduction to the Theory of Computation, Cengage Learning, 2013.
    - Turing Machines and the Church-Turing Thesis (*chapter 3*)
    - Decidability and Undecidability (*chapter 4 and 5*)
