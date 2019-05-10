@@ -20,14 +20,15 @@
 
 **BIBLIOGRAPHY**
 
-- Michael Sipser. Introduction to the Theory of Computation, Cengage Learning, 2013.
+- J. Kleinberg, E. Tardos. Algorithm Design. Addison Wesley, 2005.
    - Introduction and some representative Problems (*chapter 1*)
    - Basics of Algorithms Analysis (*chapter 2*)
    - Graphs (*chapter 3*)
    - Greedy Algorithms (*chapter 4*)
    - Divide and Conquer (*chapter 5*)
    - Dynamic Programming (*chapter 6*)
-- J. Kleinberg, E. Tardos. Algorithm Design. Addison Wesley, 2005.
+   
+- Michael Sipser. Introduction to the Theory of Computation, Cengage Learning, 2013.
    - Turing Machines and the Church-Turing Thesis (*chapter 3*)
    - Decidability and Undecidability (*chapter 4 and 5*)
    - Reducibility (*chapter 5*)
